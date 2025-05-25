@@ -17,7 +17,6 @@
 - 🏆 Ganador de los premios a la `Innovación` y `Programación` en el XVI Campeonato Nacional de Robótica y STEM 2025
 - 💻 Apasionado por el desarrollo **Full-Stack** y el aprendizaje en **ciberseguridad**
 - ⚙️ Experiencia con: `React`, `Next.js`, `.NET`, `MySQL`, `Docker`, `Ubuntu`, `Kali Linux`
-- 📱 Desarrollador de [BeAChefsito](#), una red social de recetas (actualmente en desarrollo)
 - 📫 Contacto: [![Email](https://img.shields.io/static/v1?label=email&message=marcosxraxd%40gmail.com&color=EA4335&style=flat-square)](mailto:marcosxraxd@gmail.com)
 - ✨ *“Construyo soluciones reales con código. Siempre aprendiendo, siempre creando.”*
 
@@ -27,10 +26,10 @@
 
 ### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="20px"></picture> Programming languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 
 ### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="20px"></picture> Frontend Development
 
