@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block">Hi there 👋, I'm Marcos Santander</h1></summary>
+    <summary><h1 style="display: inline-block">Hi there, I'm Marcos Santander</h1></summary>
   </ul>
 </div>
 
@@ -13,16 +13,16 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- 🎓 Ingeniero en Sistemas Computacionales
-- 🏆 Ganador de los premios a la `Innovación` y `Programación` en el XVI Campeonato Nacional de Robótica y STEM 2025
-- 💻 Apasionado por el desarrollo **Full-Stack** y el aprendizaje en **ciberseguridad**
-- ⚙️ Experiencia con: `React`, `Next.js`, `.NET`, `MySQL`, `Docker`, `Ubuntu`, `Kali Linux`
-- 📫 Contacto: [![Email](https://img.shields.io/static/v1?label=email&message=marcosxraxd%40gmail.com&color=EA4335&style=flat-square)](mailto:marcosxraxd@gmail.com)
-- ✨ *“Construyo soluciones reales con código. Siempre aprendiendo, siempre creando.”*
+-  Ingeniero en Sistemas Computacionales
+-  Ganador de los premios a la `Innovación` y `Programación` en el XVI Campeonato Nacional de Robótica y STEM 2025
+-  Apasionado por el desarrollo **Full-Stack** 
+-  Experiencia con: `React`, `Next.js`, `.NET`, `MySQL`, `Docker`, `Ubuntu`, `Kali Linux`
+-  Contacto: [![Email](https://img.shields.io/static/v1?label=email&message=marcosxraxd%40gmail.com&color=EA4335&style=flat-square)](mailto:marcosxraxd@gmail.com)
+-  *“Construyo soluciones reales con código. Siempre aprendiendo, siempre creando.”*
 
 <br>
 
-## 🛠️ My Skills
+##  My Skills
 
 ### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="20px"></picture> Programming languages
 
